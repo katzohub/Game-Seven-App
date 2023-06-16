@@ -15,6 +15,6 @@ Good luck playing.
 
 ### Zdravím všetkých
 
-Môj tretí projekt som vytvoril hru,kde je ulohou hádať a usporiadavať jednotli odpovede na otázky.
+Môj tretí projekt som vytvoril hru,kde je úlohou hádať a usporiadavať jednotlive odpovede na otázky.
 V hre je ukázany dizajn preusporiadavanie prvkov logika hry a responzívnosť projektu.
 Prajem veľa štastia pri hraní. 😉
