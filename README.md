@@ -1,6 +1,6 @@
 # ENGLISH
 
-## GAME SEVENS
+## GAME SEVEN
 
 ### Hello everyone
 
