@@ -7,7 +7,7 @@
 For my third project, I created a game where the task is to guess and arrange the answers to questions individually.
 In the game, a sample of the design is the rearrangement of the elements of the game logic and the responsiveness of the project.
 Good luck playing.😉
-[Free to play](https://katzohub.github.io/Game-Seven-App/index.html)
+[Free to play](https://katzohub.github.io/Game-Seven-App/index_aj.html)
 
 # SLOVAKIA
 
