@@ -1,3 +1,4 @@
+![fotka pre moj projekt](game-seven.png) 
 # ENGLISH
 
 ## GAME SEVEN
